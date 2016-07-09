@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "641978466958",
+    "firebase_url": "https://holdets-app.firebaseio.com",
+    "project_id": "holdets-app",
+    "storage_bucket": "holdets-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641978466958:android:bff473d4543b9318",
+        "android_client_info": {
+          "package_name": "com.example.tjavsi.holdetsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641978466958-ul4jqiusp4v9behs3tlooodns51r7rg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmw5TmfqaprqVmwYPVf7qDXF57VgHOSfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
